@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ram Academy</string>
+    <string name="app_tagline">Prepare. Perform. Prevail.</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="home">Home</string>
+    <string name="courses">Courses</string>
+    <string name="tests">Tests</string>
+    <string name="learn">Learn</string>
+    <string name="profile">Profile</string>
+    <string name="daily_quiz">Daily Quiz</string>
+    <string name="live_classes">Live Classes</string>
+    <string name="study_material">Study Material</string>
+    <string name="current_affairs">Current Affairs</string>
+    <string name="downloads">Downloads</string>
+    <string name="settings">Settings</string>
+</resources>
